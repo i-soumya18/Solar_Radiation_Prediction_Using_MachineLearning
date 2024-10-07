@@ -105,7 +105,8 @@ Once the application is running, you can use the Streamlit interface to:
 Here are some screenshots of the project:
 
 - **Prediction Interface**  
-  ![Prediction Interface](/interface.png)
+  ![Prediction Interface](/![interface](https://github.com/user-attachments/assets/fa57c2d4-6a18-4a1c-b048-ee979076257b)
+)
 
 - **Feature Importance**  
   ![Feature Importance](/importance.png)
